@@ -18,6 +18,9 @@
     height: 30px;
 }
 
+.navbar {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 #carouimg {
     width:100%;
     height:auto;
@@ -30,8 +33,6 @@ color: white;
 left: 50%;
 top: 50%;
 transform: translate(-50%, -50%);
-
-
 }
 
 #imagen {
@@ -39,15 +40,12 @@ text-align: center;
 border-radius: 50%;
 height: 90%;
 width: 90%;
-
-
 }
 
 .sectiontext {
 margin: 50px;
 padding-top: 25px;
 vertical-align: baseline
-
 }
 
 .spacer1 {
@@ -73,10 +71,6 @@ text-align: center;
 
 .jumbosection {
 padding: 20px;
-}
-
-.jumbotron {
-
 }
 
 #textright {
@@ -131,6 +125,7 @@ text-align: center;
 #icon {
 height: 95px;
 width: 95px;
+
 }
 
 .Businfo {
@@ -152,6 +147,11 @@ text-align: center;
   padding-top: 90px;
   background-color: gray;
   background-image: url("Assets/Img/Jax4.jpg");
+  
+}
+
+.btn {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
