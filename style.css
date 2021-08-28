@@ -76,7 +76,7 @@ padding: 20px;
 }
 
 .jumbotron {
-background-color: white;
+
 }
 
 #textright {
@@ -145,6 +145,13 @@ text-align: center;
 
 .jumbotron {
     background:transparent !important
+}
+
+.card {
+  height: 480px;
+  padding-top: 90px;
+  background-color: gray;
+  background-image: url("Assets/Img/Jax4.jpg");
 }
 
 
